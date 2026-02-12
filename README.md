@@ -8,6 +8,7 @@ This repository contains the programs for **Assignment 2**. Each program corresp
 - `crime.csv` (community crime + socio-economic variables)   
 
 > Note: The README describes what each **program** does (not the output files).
+> Note: My descriptions are heavily based off of the assignment instructions. I used Google to show me how to nicely format the README using certian symbols.
 
 ---
 
