@@ -1,4 +1,4 @@
-# Introduction to Data Science — Assignment 2 (Programs)
+# Data221 — Assignment 2 (Programs)
 
 This repository contains the programs for **Assignment 2**. Each program corresponds to one question and is written to be simple, readable, and beginner-friendly.
 
