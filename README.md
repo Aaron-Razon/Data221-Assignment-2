@@ -9,8 +9,7 @@ This repository contains the programs for **Assignment 2**. Each program corresp
 
 > Note: The README describes what each **program** does (not the output files).
 
-> Note: My descriptions are heavily based off of the assignment instructions. I used Google to show me how to nicely format and design the README using certian symbols.
-
+> Note: The program descriptions below are based closely on the assignment instructions. I also used Google to get ideas for README formatting (headings, separators, and bullet styles) and ChatGPT to brainstorm some ideas.
 ---
 
 ## Question 1 — Word frequency counter
